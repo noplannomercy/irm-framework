@@ -5,6 +5,17 @@
 
 ---
 
+> **선행 조건: ALFA (AI/LLM Framework for Adoption)**
+>
+> IRM은 "어떤 업무에 LLM을 쓸지"가 정해진 후에 돌리는 프레임워크다. 도메인/유즈케이스가 명확하지 않은 상태에서 IRM을 돌리면 범위가 발산한다.
+>
+> - 조직에 LLM을 처음 도입하는 경우: ALFA Phase 0~3 선행 → Phase 4에서 유즈케이스 정의서 작성 → IRM 투입
+> - 유즈케이스가 이미 명확한 경우: 유즈케이스 정의서를 직접 작성하여 IRM Phase 0에 바로 입력 가능
+>
+> → ALFA Framework 참조
+
+---
+
 ## 개요
 
 ### LLM Native = AX이자 DX
